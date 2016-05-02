@@ -9,10 +9,11 @@
     "tooltip"
   ],
   "files": [
-    "lib",
+    "src",
+    "index.js",
     "assets/*.css"
   ],
-  "main": "lib/index",
+  "main": "index",
   "homepage": "http://github.com/react-component/tooltip",
   "maintainers": [
     "yiminghe@gmail.com"
